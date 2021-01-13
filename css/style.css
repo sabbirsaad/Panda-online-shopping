@@ -1,0 +1,55 @@
+.top-nav a{
+    font-weight: 500;
+}
+.top-nav a:hover{
+    color: tomato !important;
+}
+.slider{
+    background-color: #fceae8;
+    border-radius: 8px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.catagories img{
+    height: 100px;
+}
+.box-1, .box-2, .box-3{
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+.card-box{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+    margin-top: 10px;
+}
+.card-box:hover{
+    box-shadow: 2px 2px 20px rgb(253, 132, 132);
+}
+.box-footer{
+    border: none;
+    background-color: white;
+    padding-bottom: 20px;
+}
+.show-more{
+    text-decoration: none;
+}
+.input{
+    width: 100%;
+    border-radius: 5px;
+    height: 40px;
+    border: 1px solid #ced4da;
+    padding-left:20px ;
+}
+.items{
+   text-align: center;
+}
+#subscribe{
+    background-color: #fceae8;
+    height: 300px;
+    border-radius: 10px;
+}
+footer{
+    text-align: center;
+}
